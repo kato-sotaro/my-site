@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/kato-sotaro/kato-sotaro.github.io.git
+	branch = master
