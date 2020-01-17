@@ -9,8 +9,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Erlich Bachman"
-title = "Erlich Bachman"
+author = "Kato Sotaro"
+title = "Kato Sotaro"
 
 theme = "hugo-goa"
 
@@ -21,56 +21,30 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Erlich Bachman"
-intro = "Startup Guru Extraordinaire"
-description = "Now @Pied Piper. Previously @Hacker Hostel, @Bachmanity and @Aviato. <br/> \"What is F times 5? It's Fleventy-five.\""
-authorimage = "headshot.jpg"
-dateformat = "Jan 2, 2006"
+author = "Sotaro Kato"
+intro = "Greating is Most important"
+description = "Finance　Statictics"
+authorimage = "my_hp_photo.jpg"
+dateformat = "DEC 2, 2019"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
+description = "Kato Sotaro's blog"
 keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "<username>"
+github = "kato-sotaro"
 instagram = "<username>"
-xing = "<username>"
-linkedin = "<username>"
 twitter = "<username>"
 facebook = "<username>"
-google = "<username>"
-googlescholar = "<account_id>"
-stackoverflow = "<username>"
-lastfm = "<username>"
-goodreads = "<username>"
-gitlab = "<username>"
-bitbucket = "<username>"
-fivehundredpx = "<username>"
-flickr = "<username>"
-foursquare = "<username>"
-hackernews = "<username>"
-kickstarter = "<username>"
-patreon = "<username>"
-pintrest = "<username>"
-steam = "<username>"
-reddit = "<username>"
-snapchat = "<username>"
-youtube = "<channelid>"
-keybase = "<username>"
-twitch = "<username>"
-soundcloud = "<username>"
-tumblr = "<username>"
-strava = "<username>"
-skype = "<username>"
-telegram = "<username>"
-whatsapp = "<username>"
-email = "you@example.com"
+stackoverflow = "katosotaro"
+tumblr = "<username>"#ウェブデザイン
+email = "katosotaro18@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2019. Kato Sotaro. [All Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 socialmarkup = true
