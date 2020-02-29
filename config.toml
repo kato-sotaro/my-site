@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Sotaro Kato"
-intro = "Greating is Most important"
+intro = "Greeting is Most important"
 description = "Finance　Statictics"
 authorimage = "my_hp_photo.jpg"
 dateformat = "DEC 2, 2019"
