@@ -14,15 +14,14 @@ name : 加藤　聡太郎　kato sotaro
 
 birth : 1998 / 01 / 18
 
-grade : 3
+grade : 4
 
 ***
 ### Education
 * Dept. of Administration Engineering Faculty of Science and Technology , Keio University
 ### Work Experience
 * Internship
-    * Software engineer, ARAYA, inc. (July. 2018 - Present)
-    * Software engineer, PASTURE, INC. (July. 2017 - Mar. 2018)
+    * Software engineer, 財産ネット, inc. (March. 2019 - Novenber. 2019)
 * Outsourcing agreement
     * Technical support staff, STANDARD, inc. (Feb. 2019 - Present)
 
@@ -45,7 +44,10 @@ grade : 3
 * FrameWork
     * Angular
     * hugo
-    
+
+### Licence
+* 簿記検定　grade.2
+
 ### Contact
 
 * Address: Tokyo, Japan
