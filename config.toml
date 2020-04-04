@@ -2,8 +2,8 @@
 
 baseurl = "https://kato-sotaro.github.io/"
 builddrafts = false
-canonifyurls = true
-languageCode = "en-US"
+canonifyurls = false
+languageCode = "utf-8"
 
 contentdir = "content"
 layoutdir = "layouts"
