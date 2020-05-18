@@ -48,6 +48,8 @@ grade : 4
 ### Licence
 * 簿記検定　grade.2
 
+* [寿司打](http://typing.sakura.ne.jp/sushida/)　max 13980
+
 ### Contact
 
 * Address: Tokyo, Japan
