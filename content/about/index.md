@@ -45,7 +45,7 @@ grade : 4
     * Angular
     * hugo
 
-* [寿司打](http://typing.sakura.ne.jp/sushida/)　max 15060
+* [寿司打](http://typing.sakura.ne.jp/sushida/)　max 15820
 
 ### Licence
 * 簿記検定　grade.2
