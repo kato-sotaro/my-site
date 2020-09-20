@@ -22,6 +22,7 @@ grade : 4
 ### Work Experience
 * Internship
     * Software engineer, 財産ネット, inc. (March. 2019 - Novenber. 2019)
+    * AI engineer, AVILEN, (Sep. 2020 - present)
 * Outsourcing agreement
     * Technical support staff, STANDARD, inc. (Feb. 2019 - Present)
 
