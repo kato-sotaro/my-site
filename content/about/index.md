@@ -51,6 +51,7 @@ grade : 4
 ### Licence
 * 簿記検定　grade.2
 * 第一種証券外務員
+* 基本情報処理資格
 
 ### Contact
 
