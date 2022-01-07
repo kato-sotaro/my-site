@@ -52,7 +52,7 @@ and Technology, Keio University
 * 簿記検定　grade.2
 * 第一種証券外務員
 * 基本情報処理資格
-* Kaggle Expert
+* Kaggle Competition Expert
 
 ### Contact
 
