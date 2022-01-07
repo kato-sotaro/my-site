@@ -35,11 +35,10 @@ keywords = "minimalist,blog,goa,hugo,developer"
 ## Social Accounts
 [params.social]
 github = "kato-sotaro"
-instagram = "<username>"
-twitter = "<username>"
-facebook = "<username>"
+instagram = "kato_sotaro18"
 stackoverflow = "katosotaro"
 tumblr = "<username>"#ウェブデザイン
+linkedin = "kato-sotaro"
 email = "katosotaro18@gmail.com"
 
 ## Extras

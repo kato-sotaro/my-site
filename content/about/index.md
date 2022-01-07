@@ -14,18 +14,18 @@ name : 加藤　聡太郎　kato sotaro
 
 birth : 1998 / 01 / 18
 
-grade : 4
+grade : master 1
 
 ***
 ### Education
+* Center for Information & Computer Science, School of Science for
+Open and Environmental Systems, Graduate School of Science
+and Technology, Keio University
 * Dept. of Administration Engineering Faculty of Science and Technology , Keio University
 ### Work Experience
 * Internship
     * Software engineer, **財産ネット**, inc. (March. 2019 - Novenber. 2019)
-    * AI engineer, **AVILEN**, (Sep. 2020 - present)
-* Outsourcing agreement
-    * Technical support staff, STANDARD, inc. (Feb. 2019 - Present)
-
+    * AI engineer, **AVILEN**, (Sep. 2020 - Jan. 2022)
 
 ### Skill
 * Programing
@@ -52,9 +52,9 @@ grade : 4
 * 簿記検定　grade.2
 * 第一種証券外務員
 * 基本情報処理資格
+* Kaggle Expert
 
 ### Contact
 
 * Address: Tokyo, Japan
-* Mobile: +81-(0)90-6544-8122
 * Email: katosotaro18@gmail.com
